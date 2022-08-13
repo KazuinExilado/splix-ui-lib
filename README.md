@@ -1,4 +1,4 @@
-# splix-ui-lib
+# ui-libs
 not made by me
 
 Yo yo yo It's Humpday!
